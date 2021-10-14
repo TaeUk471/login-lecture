@@ -11,6 +11,4 @@ const login = (req, res) =>{
 module.exports = {
     home, //hello : hello 형식으로 키가 저장됨.
     login, //login : login
-    
-
 };

@@ -1,8 +1,10 @@
 {
   "dependencies": {
+    "async": "^3.2.1",
     "ejs": "^3.1.6",
     "express": "^4.17.1",
     "nano": "^9.0.5",
+    "refer": "0.0.18",
     "vi": "^1.0.0"
   },
   "name": "login-lecture",
